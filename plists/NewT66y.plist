@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>p2bzzkn05.bkt.clouddn.com/NewT66y.ipa</string>
+					<string>https://portal.qiniu.com/bucket/coder-guan/index/NewT66y.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>p2bzzkn05.bkt.clouddn.com/NewT66y-AppIcon60x60@2x.png</string>
+					<string>https://portal.qiniu.com/bucket/coder-guan/index/NewT66y-AppIcon60x60@2x.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>p2bzzkn05.bkt.clouddn.com/NewT66y-AppIcon60x60@2x.png</string>
+					<string>https://portal.qiniu.com/bucket/coder-guan/index/NewT66y-AppIcon60x60@2x.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
