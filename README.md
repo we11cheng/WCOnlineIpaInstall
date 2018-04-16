@@ -1,3 +1,4 @@
+## 使用方法
 Set config in `config/user.config` file
 
 ```
@@ -12,16 +13,14 @@ Set config in `config/user.config` file
 	"repo_url" : "https://raw.githubusercontent.com/we11cheng/WCOnlineIpaInstall/master/"
 }
 ```
-bucket_name获取方式:
+bucket_name，bucket_url获取方式:
 如图所示
 ![](http://p2bzzkn05.bkt.clouddn.com/18-4-16/14187784.jpg)
-七牛云ak sk获取方式:登录七牛云->个人中心->秘钥管理
-
-使用方法：
-修改`config/user.config` 第一步已经完成。
-
-把ipa放到项目ipas文件夹内。
-执行脚本
+ 七牛云ak sk获取方式:登录七牛云->个人中心->秘钥管理
+ 
+ 把需要发布的ipa放到项目ipas文件夹内。
+ 
+ 执行脚本
 
 ```
 admindeMacBook-Pro-3:~ admin$ cd WCOnlineIpaInstall/
@@ -42,3 +41,4 @@ admindeMacBook-Pro-3:WCOnlineIpaInstall admin$
 使用过程有问题的欢迎大家讨论。
 
 感谢作者：<https://github.com/AloneMonkey/OnlineIpaInstall>
+
