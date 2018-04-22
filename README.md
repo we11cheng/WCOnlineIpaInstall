@@ -41,4 +41,6 @@ admindeMacBook-Pro-3:WCOnlineIpaInstall admin$
 使用过程有问题的欢迎大家讨论。
 
 感谢作者：<https://github.com/AloneMonkey/OnlineIpaInstall>
+新增PP助手下载越狱版本IPA方法
+切换到工程Other目录，执行命令 1:Python3 ipa.py 2:输入索索词，获取ipa下载地址。 
 
