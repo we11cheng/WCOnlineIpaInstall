@@ -53,10 +53,14 @@ admindeMacBook-Pro-3:WCOnlineIpaInstall admin$
 - 检查是否安装node ```node -v```
 - 检查是否安装npm ```npm -v```
 - 全局安装express-generator 
-```npm install -g express-generator
+```
+npm install -g express-generator
+
 ```
 - 创建一个名为myapp的express应用程序
-```express --view=pug myapp
+```
+express --view=pug myapp
+
 ```
 - npm start 在浏览器输入localhost:3000/users。
 - 其他接口直接在myapp/api/路径下添加js文件。参考demo.js
