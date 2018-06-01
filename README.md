@@ -47,7 +47,7 @@ admindeMacBook-Pro-3:WCOnlineIpaInstall admin$
 喜欢请star。你的star是我最大的动力。
 
 ## 更新日志
-- 2018-6-1 新增node搭建简单服务器接收请求返回数据。   
+- 2018-6-1 新增node搭建简单服务器接收请求返回数据。删除了node_modules文件夹(缩减工程大小)，运行前请先```npm install```
 
 #### 使用方法（新建项目，不想新建可以直接使用我的工程）。见项目工程gwcExpress文件夹。
 - 检查是否安装node ```node -v```
