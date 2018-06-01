@@ -43,5 +43,23 @@ admindeMacBook-Pro-3:WCOnlineIpaInstall admin$
 感谢作者：<https://github.com/AloneMonkey/OnlineIpaInstall>
 
 ## 新增PP助手下载越狱版本IPA方法
-切换到工程Other目录，执行命令 1:Python3 ipa.py 2:输入索索词，获取ipa下载地址。 
+切换到工程Other目录，执行命令 1:Python3 ipa.py 2:输入索索词，获取ipa下载地址。    
+喜欢请star。你的star是我最大的动力。
 
+## 更新日志
+- 2018-6-1 新增node搭建简单服务器接收请求返回数据。   
+
+#### 使用方法（新建项目，不想新建可以直接使用我的工程）。见项目工程gwcExpress文件夹。
+- 检查是否安装node ```node -v```
+- 检查是否安装npm ```npm -v```
+- 全局安装express-generator 
+```npm install -g express-generator
+```
+- 创建一个名为myapp的express应用程序
+```express --view=pug myapp
+```
+- npm start 在浏览器输入localhost:3000/users。
+- 其他接口直接在myapp/api/路径下添加js文件。参考demo.js
+
+![](http://p2bzzkn05.bkt.clouddn.com/18-6-1/94791486.jpg)
+![](http://p2bzzkn05.bkt.clouddn.com/18-6-1/38456809.jpg)
