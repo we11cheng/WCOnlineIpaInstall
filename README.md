@@ -46,22 +46,17 @@ admindeMacBook-Pro-3:WCOnlineIpaInstall admin$
 切换到工程Other目录，执行命令 1:Python3 ipa.py 2:输入索索词，获取ipa下载地址。    
 喜欢请star。你的star是我最大的动力。
 
-## 更新日志
-- 2018-6-1 新增node搭建简单服务器接收请求返回数据。删除了node_modules文件夹(缩减工程大小)，运行前请先```npm install```
+eg:
 
-#### 使用方法（新建项目，不想新建可以直接使用我的工程）。见项目工程gwcExpress文件夹。
-- 检查是否安装node ```node -v```
-- 检查是否安装npm ```npm -v```
-- 全局安装express-generator 
 ```
-npm install -g express-generator
+admindeMBP-4:WCOnlineIpaInstall admin$ cd Other/
+admindeMBP-4:Other admin$ ls
+ipa.py
+admindeMBP-4:Other admin$ python3 ipa.py 
+Close certificate verify...
+Input the search key word: 美图 秀秀
+Detail url: https://www.25pp.com/ios/detail_537102/
+Orgin download url: aHR0cDovL3IxMS4yNXBwLmNvbS9zb2Z0LzIwMTgvMDYvMDYvMjAxODA2MDZfMTE5NDRfMjE4OTgwMTQwOTg2LmlwYQ==
+Down url: b'http://r11.25pp.com/soft/2018/06/06/20180606_11944_218980140986.ipa'
+admindeMBP-4:Other admin$ 
 ```
-- 创建一个名为myapp的express应用程序
-```
-express --view=pug myapp
-```
-- npm start 在浏览器输入localhost:3000/users。
-- 其他接口直接在myapp/api/路径下添加js文件。参考demo.js
-
-![](http://p2bzzkn05.bkt.clouddn.com/18-6-1/94791486.jpg)
-![](http://p2bzzkn05.bkt.clouddn.com/18-6-1/38456809.jpg)
