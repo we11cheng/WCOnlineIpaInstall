@@ -30,7 +30,6 @@ admindeMacBook-Pro-3:WCOnlineIpaInstall admin$ Python3 ./upload.py ipas/Target.i
 [NewT66y.html] uploading......
 Please push local branch to remote, Then open http://p2bzzkn05.bkt.clouddn.com/NewT66y.html install
 admindeMacBook-Pro-3:WCOnlineIpaInstall admin$ 
-
 ```
 打开<http://p2bzzkn05.bkt.clouddn.com/NewT66y.html>
 
@@ -43,11 +42,12 @@ admindeMacBook-Pro-3:WCOnlineIpaInstall admin$
 感谢作者：<https://github.com/AloneMonkey/OnlineIpaInstall>
 
 ## 新增PP助手下载越狱版本IPA方法
-切换到工程Other目录，执行命令 1:Python3 ipa.py 2:输入索索词，获取ipa下载地址。    
-喜欢请star。你的star是我最大的动力。
+切换到工程Other目录，执行命令 
+1:Python3 ipa.py 
+2:输入索索词，获取ipa下载地址。    
+3:喜欢请star。你的star是我最大的动力。
 
 eg:
-
 ```
 admindeMBP-4:WCOnlineIpaInstall admin$ cd Other/
 admindeMBP-4:Other admin$ ls
