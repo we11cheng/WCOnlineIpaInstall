@@ -60,3 +60,4 @@ Orgin download url: aHR0cDovL3IxMS4yNXBwLmNvbS9zb2Z0LzIwMTgvMDYvMDYvMjAxODA2MDZf
 Down url: b'http://r11.25pp.com/soft/2018/06/06/20180606_11944_218980140986.ipa'
 admindeMBP-4:Other admin$ 
 ```
+### 2018-8-24 重大更新，搭建了免费企业应用分发地址<https://igwc.tk/>欢迎体验~，觉得不错给个star，谢谢~
